@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Łukasz</h1>
+<p align="center">22 y/o from Poland 🇵🇱 | Learning Python 🐍 | Future developer 🚀</p>
 
-<!--
-**lukaszzielinski2003/lukaszzielinski2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 22-year-old aspiring developer from Poland 🇵🇱, currently learning **Python** 🐍 and exploring the world of programming 🚀.
+
+---
+
+### 🔧 What I'm focused on
+
+- Building simple Python projects
+- Learning Git, GitHub and development workflows
+- Improving my problem-solving and coding skills
+
+---
+
+### 💡 Values & Mindset
+
+📍 Always curious, always learning.  
+I'm passionate about understanding how things work under the hood, and I enjoy turning small coding challenges into working tools.
+
+---
